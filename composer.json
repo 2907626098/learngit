@@ -1,0 +1,8 @@
+{
+    "name": "maofei/think-socket",
+    "description": "test composer package",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "require": {}
+}
